@@ -86,10 +86,10 @@ Material:
     - _CloudSharpness: 0
     - _Cloudiness: 1
     - _Cutoff: 0.5
-    - _Declination: 39.6
+    - _Declination: -90
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _FarStars: 0.109
+    - _FarStars: 0.169
     - _Float1: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -102,12 +102,12 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _NadirBlendPower: 0.1
-    - _North: 0
+    - _North: 360
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _ScaleofClouds: 2
-    - _ShowConstilationMap: 0.003
-    - _ShowGalexy: 0
+    - _ShowConstilationMap: 0.022
+    - _ShowGalexy: 0.615
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -120,7 +120,7 @@ Material:
     - _SunsetRadialFalloff: 0.048
     - _SunsetVerticalFalloff: 0.114
     - _UVSec: 0
-    - _WorldRotation: 189.01419
+    - _WorldRotation: 329.13
     - _ZWrite: 1
     - _ZenithBlendPower: 0.55
     - __dirty: 0
